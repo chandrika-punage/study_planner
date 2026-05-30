@@ -154,51 +154,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Dashboard
-- Study Planner
-- Goals Page
-- Progress Tracker
-- Settings Page
-
-Example:
-
-```md
-![Dashboard](screenshots/dashboard.png)
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a new branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push changes
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
-
----
-
 ## 👩‍💻 Author
 
 **Chandrika Punage**
